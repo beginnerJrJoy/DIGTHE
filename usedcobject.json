@@ -1,5 +1,5 @@
 [
-  { "key": "ABC123", "user": "홍길동", "status": "unused" },
+  { "key": "ABC123", "user": "홍길동", "status": "used" },
   { "key": "XYZ789", "user": "김철수", "status": "unused" },
   { "key": "LMN456", "user": "박영희", "status": "unused" }
 ]
